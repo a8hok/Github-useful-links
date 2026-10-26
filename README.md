@@ -7,6 +7,7 @@ Table of Contents
 - [`Algo preparation`](#algo-preparation)
 - [`All Programming`](#All-programming)
 - [`Leetcode`](#Leetcode)<br>
+- [`Java`](#Java)<br>
 
 
 
@@ -24,3 +25,6 @@ Table of Contents
 
 ## `LeetCode`
 - [https://github.com/kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)<br>
+
+## `Java`
+- [https://github.com/TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)<br>
