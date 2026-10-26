@@ -15,6 +15,7 @@ Table of Contents
 
 ## `Algo preparation`
 - [https://github.com/krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+- [https://github.com/williamfiset/Algorithms](https://github.com/williamfiset/Algorithms)<br>
 
 ## `All programming`
 - [https://github.com/lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)<br>
