@@ -5,9 +5,10 @@ Table of Contents
 
 - [`Interview preparation`](#interview-preparation)
 - [`Algo preparation`](#algo-preparation)
-- [`All Programming`](#All-programming)
-- [`Leetcode`](#Leetcode)<br>
-- [`Java`](#Java)<br>
+- [`All Programming`](#all-programming)
+- [`Leetcode`](#leetcode)
+- [`Java`](#java)
+- [`Coding patterns`](`#Coding-patterns`)
 
 
 
@@ -28,3 +29,6 @@ Table of Contents
 
 ## `Java`
 - [https://github.com/TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)<br>
+
+## `Coding Patterns`
+- [https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews)<br>
