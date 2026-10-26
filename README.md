@@ -6,6 +6,7 @@ Table of Contents
 - [`Interview preparation`](#interview-preparation)
 - [`Algo preparation`](#algo-preparation)
 - [`All Programming`](#All-programming)
+- [`Leetcode`](#Leetcode)<br>
 
 
 
@@ -20,3 +21,6 @@ Table of Contents
 ## `All programming`
 - [https://github.com/lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)<br>
 - [https://github.com/cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)<br>
+
+## `LeetCode`
+- [https://github.com/kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)<br>
